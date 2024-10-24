@@ -4,9 +4,9 @@
 ## About me
 
 ## Education
-- Computer science |   Nacional University of Rosario						       		
+- Computer science  |   Nacional University of Rosario						       		
 - Project managment	|  Platzi (2023) 			        		
-- Data analysis |      Platzi (2024)
+- Data analysis     |      Platzi (2024)
 
 ## Work Experience
 **Administrative Assistant Transener (2022 - Present)**
