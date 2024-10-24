@@ -20,13 +20,13 @@
 
 ## Projects
 ### Data analysis Spotify 
-[Spotify market analysis](https://www.mdpi.com/1424-8220/22/8/3048)
-(/assets/img/spotify.png=
+![Spotify market analysis]((/assets/img/spotify.png))
+
 
 
 ### Data analysis Tecnomax Stores
 [Tecnomax Data analysis](https://www.mdpi.com/1424-8220/22/11/4240)
-(/assets/img/bike_study.jpeg)
+!(/assets/img/bike_study.jpeg)
 
 
 
