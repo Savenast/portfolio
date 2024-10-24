@@ -4,4 +4,4 @@ logo: /assets/img/profile.jpeg
 show_downloads: true
 theme: jekyll-theme-minimal
 include:
-  - /style.css
+  - style.css
