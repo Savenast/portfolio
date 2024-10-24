@@ -20,7 +20,7 @@
 
 ## Projects
 ### Data analysis Spotify 
-![Spotify market analysis](assets/img/spotify.png)
+<img src="/assets/img/spotify.png" alt="Spotify market analysis" class="custom-image">
 
 
 
