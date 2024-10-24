@@ -4,9 +4,10 @@
 ## About me
 
 ## Education
-- `Computer Science    ` | Nacional University of Rosario  
-- `Project Management  `| Platzi (2023)  
-- `Data Analysis       `| Platzi (2024)
+- Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Nacional University of Rosario
+- Project Management&nbsp;&nbsp;&nbsp;&nbsp;| Platzi (2023)
+- Data Analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Platzi (2024)
+
 
 
 ## Work Experience
