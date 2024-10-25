@@ -31,18 +31,3 @@ Whether collaborating with a team or working independently, I strive to approach
 - Worked with a small team under high-pressure conditions, ensuring smooth plant operations and effective troubleshooting
 - Collaborated with team members to streamline operations and ensure timely completion of administrative processes.
 
-
-## Projects
-### Data analysis Spotify 
-![Spotify Market Analysis](/assets/img/spotify.png){: style="width: 400px; height: auto;" }
-
-
-
-
-### Data analysis Tecnomax Stores
-[Tecnomax Data analysis](https://www.mdpi.com/1424-8220/22/11/4240)
-!(/assets/img/bike_study.jpeg)
-
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
