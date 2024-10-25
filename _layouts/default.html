@@ -25,13 +25,26 @@
 
         
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
+       {% if site.show_downloads %}
+  <ul class="social-links">
+    <li>
+      <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
+        <img src="/path/to/github-icon.svg" alt="GitHub Icon" /> GitHub
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+        <img src="/path/to/linkedin-icon.svg" alt="LinkedIn Icon" /> LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer">
+        <img src="/path/to/twitter-icon.svg" alt="Twitter Icon" /> Twitter
+      </a>
+    </li>
+  </ul>
+{% endif %}
+
       </header>
       <section>
 
