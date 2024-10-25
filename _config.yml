@@ -5,7 +5,8 @@ show_downloads: false
 theme: jekyll-theme-minimal
 minima:
   social_links:
-    github: jekyll
-    linkedin: jekyll
-include:
-  - style.css
+    - title: "GitHub"
+      url: "https://github.com/Savenast"
+    - title: "Linkedin"
+      url: "linkedin.com/in/julián-salvatierra-653a04175"
+
