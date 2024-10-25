@@ -1,7 +1,8 @@
 title: Salvatierra Julian
 logo: /assets/img/profile.jpeg
 description: " "
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
+skin: "dark"
 include:
   - style.css
