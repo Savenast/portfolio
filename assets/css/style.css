@@ -1,0 +1,22 @@
+.social-links {
+  list-style: none; /* Remove default list styling */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+  text-align: center; /* Center-align the list */
+}
+
+.social-links li {
+  display: inline-block; /* Change to inline-block for better spacing */
+  margin-right: 10px; /* Space between links */
+}
+
+.social-links li:last-child {
+  margin-right: 0; /* Remove margin from last item */
+}
+
+.social-icon {
+  width: 24px; /* Set the width of icons */
+  height: auto; /* Maintain aspect ratio */
+  vertical-align: middle; /* Align icons with text */
+  margin-right: 5px; /* Space between icon and text */
+}
