@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -27,22 +29,23 @@
 
        {% if site.show_downloads %}
   <ul class="social-links">
-    <li>
-      <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
-        <img src="/path/to/github-icon.svg" alt="GitHub Icon" /> GitHub
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
-        <img src="/first-portfolio/assets/icons/linkedin.png" alt="LinkedIn Icon" /> LinkedIn
-      </a>
-    </li>
-    <li>
-      <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer">
-        <img src="/first-portfolio/assets/icons/github.png" alt="Twitter Icon" /> Twitter
-      </a>
-    </li>
-  </ul>
+  <li>
+    <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
+      <img src="/path/to/github-icon.svg" alt="GitHub Icon" class="social-icon" /> GitHub
+    </a>
+  </li>
+  <li>
+    <a href="www.linkedin.com/in/julián-salvatierra-653a04175" target="_blank" rel="noopener noreferrer">
+      <img src="/first-portfolio/assets/icons/linkedin.png" alt="LinkedIn Icon" class="social-icon" /> LinkedIn
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
+      <img src="/first-portfolio/assets/icons/github.png" alt="Twitter Icon" class="social-icon" /> Twitter
+    </a>
+  </li>
+</ul>
+
 {% endif %}
 
       </header>
