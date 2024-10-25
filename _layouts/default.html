@@ -17,63 +17,49 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="Logo" />
+  {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+  <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        
-
-       {% if site.show_downloads %}
   <ul class="social-links">
-  <li>
-    <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
-      <img src="/path/to/github-icon.svg" alt="GitHub Icon" class="social-icon" /> GitHub
-    </a>
-  </li>
-  <li>
-    <a href="www.linkedin.com/in/julián-salvatierra-653a04175" target="_blank" rel="noopener noreferrer">
-      <img src="/first-portfolio/assets/icons/linkedin.png" alt="LinkedIn Icon" class="social-icon" /> LinkedIn
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
-      <img src="/first-portfolio/assets/icons/github.png" alt="Twitter Icon" class="social-icon" /> Twitter
-    </a>
-  </li>
-</ul>
+    <li>
+      <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
+        <img src="/path/to/github-icon.svg" alt="GitHub Icon" class="social-icon" /> GitHub
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/julián-salvatierra-653a04175" target="_blank" rel="noopener noreferrer">
+        <img src="/first-portfolio/assets/icons/linkedin.png" alt="LinkedIn Icon" class="social-icon" /> LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/Savenast" target="_blank" rel="noopener noreferrer">
+        <img src="/first-portfolio/assets/icons/twitter.png" alt="Twitter Icon" class="social-icon" /> Twitter
+      </a>
+    </li>
+  </ul>
 
-{% endif %}
-
-      </header>
-      <section>
-
-      {{ content }}
-
-      </section>
-   <footer>
   {% if site.github.is_project_page %}
-    <div class="social-links">
-      <ul class="social-media-list">
-        {%- for entry in site.minima.social_links -%}
-          <li>
-            <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer">
-              {{ entry.name }}
-            </a>
-          </li>
-        {%- endfor -%}
-      </ul>
-    </div>
-
     <p class="view">
       <a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a>
     </p>
   {% endif %}
-  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+</header>
+
+<section>
+  {{ content }}
+</section>
+
+<footer>
+  {% if site.github.is_project_page %}
+    <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+  {% endif %}
 </footer>
+
 
 
 
