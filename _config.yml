@@ -3,10 +3,18 @@ logo: /assets/img/profile.jpeg
 description: " "
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Add base URL and site URL if needed
+baseurl: "/first-portfolio"   # Only if your GitHub Pages site is in a repo other than your GitHub username
+url: "https://Savenast.github.io"
+
+# Permalinks setup for cleaner URLs
+permalink: pretty
+
+# Social links for Minima theme
 minima:
   social_links:
     - name: "GitHub"
       url: "https://github.com/Savenast"
-    - name: "Linkedin"
-      url: "linkedin.com/in/julián-salvatierra-653a04175"
-
+    - name: "LinkedIn"
+      url: "https://linkedin.com/in/julián-salvatierra-653a04175"
