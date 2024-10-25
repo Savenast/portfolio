@@ -14,8 +14,8 @@ Whether collaborating with a team or working independently, I strive to approach
 - Data Analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Platzi (2024)
 
 ## Languages
--English level: B1
--Spanish: Native
+- English level: B1
+- Spanish: Native
 
 ## Work Experience
 **Administrative Assistant Transener (2022 - Present)**
