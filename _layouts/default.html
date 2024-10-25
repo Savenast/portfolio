@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+ .social-links {
+    list-style: none; /* Remove default list styling */
+    padding: 0;      /* Remove default padding */
+    display: flex;   /* Display items in a row */
+    gap: 15px;       /* Space between icons */
+    margin: 10px 0;  /* Margin around the social links */
+}
+
+.social-links li {
+    display: inline; /* Ensure items are inline */
+}
+
+.social-icon {
+    width: 24px;    /* Set a specific width for the icons */
+    height: 24px;   /* Set a specific height for the icons */
+    vertical-align: middle; /* Align icons vertically with text */
+}
+
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -38,7 +56,7 @@
     </li>
     <li>
       <a href="https://twitter.com/Savenast" target="_blank" rel="noopener noreferrer">
-        <img src="/first-portfolio/assets/icons/twitter.png" alt="Twitter Icon" class="social-icon" /> Twitter
+        <img src="/first-portfolio/assets/icons/github.png" alt="Twitter Icon" class="social-icon" /> Twitter
       </a>
     </li>
   </ul>
