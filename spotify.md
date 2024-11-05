@@ -6,13 +6,13 @@ description: "A clean visual representation of Spotify streaming trends for shar
 
 # Spotify Music Analysis Dashboard
 
-![Spotify Dashboard](../assets/images/Main-dashboard.png)
+![Spotify Dashboard](../assets/img/Main-dashboard.png)
 
 ### Project Overview
 
 This project presents a clean, visually appealing dashboard that captures key Spotify streaming trends. Designed with simplicity in mind, this dashboard is ideal for sharing on social media or incorporating into reports where quick insights and aesthetics are prioritized.
 
-**Data Source:** [Kaggle](https://www.kaggle.com/)  
+**Data Source:** [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023))  
 **Tools Used:** Power BI, PowerPoint (for additional styling)
 
 ---
@@ -52,4 +52,4 @@ This project serves as a starting point for more complex analyses. Future projec
 
 This Spotify Music Analysis dashboard is a powerful example of how data can be visually structured for quick understanding and visual impact. It showcases essential metrics in a clean layout that aligns with Spotify's branding, making it perfect for both internal reports and public presentations.
 
-[Back to Projects](../projects)
+[Back to Main](../README.md)
