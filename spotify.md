@@ -6,7 +6,7 @@ description: "A clean visual representation of Spotify streaming trends for shar
 
 # Spotify Music Analysis Dashboard
 
-![Spotify Dashboard](../assets/img/Main.png)
+![Spotify Dashboard](/assets/img/Main.png)
 
 ### Project Overview
 
