@@ -1,6 +1,6 @@
 ---
-layout: page
-title: My First Project
+layout: default
+title: Spotify Analysis
 ---
 
 ## My First Project
