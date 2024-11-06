@@ -3,6 +3,13 @@ logo: /assets/img/profile.jpeg
 description: " "
 show_downloads: true
 theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /index.html
+      layout: default
 
 # Add base URL and site URL if needed
 baseurl: "/first-portfolio"   # Only if your GitHub Pages site is in a repo other than your GitHub username
