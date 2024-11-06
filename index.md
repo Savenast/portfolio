@@ -23,10 +23,10 @@ Whether collaborating with a team or working independently, I strive to approach
 
 ## Work Experience
 **Administrative Assistant Transener (2022 - Present)**
-- Monitored and analyzed key variables such as temperatures and turbine trends to optimize equipment performance and durability.
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-- Worked with a small team under high-pressure conditions, ensuring smooth plant operations and effective troubleshooting
-- Worked with a small team under high-pressure conditions, ensuring smooth plant operations and effective troubleshooting.
+- Developed an internal application on AppSheet to automate and streamline daily tasks for the storage team, improving operational efficiency.
+- Created an automated notification system using Google Apps Script, sending timely email reminders about upcoming deadlines for instruments, habilitations, and vehicles, ensuring compliance and preventing delays.
+- Optimized workflows by designing custom spreadsheets and integrating them with various tools, reducing time spent on administrative tasks.
+
 
 
 **Thermoelectric Plant Operator  Generacion Rosario S.A (2016 - 2022)**
@@ -35,3 +35,4 @@ Whether collaborating with a team or working independently, I strive to approach
 - Worked with a small team under high-pressure conditions, ensuring smooth plant operations and effective troubleshooting
 - Collaborated with team members to streamline operations and ensure timely completion of administrative processes.
 
+**Thermoelectric Plant Operator  Central Termica Vuelta de Obligado S.A. (2014)**
