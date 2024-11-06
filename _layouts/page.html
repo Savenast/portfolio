@@ -2,42 +2,83 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>{{ Spotify Music Analysis Dashboard }}</title>
+    <title>{{ page.title }}</title>
 
-    <!-- Custom CSS directly in the layout -->
+    <!-- Minimalistic CSS for a cleaner look -->
     <style>
-        h1, h2, h3 {
-            font-family: 'Arial', sans-serif;
-            color: #2c3e50;
+        /* Base styling */
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            color: #333;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
         }
 
+        /* Container styling */
+        main {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        /* Header and Footer */
+        header, footer {
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+        }
+
+        /* Title styling */
+        h1, h2 {
+            font-family: 'Georgia', serif;
+            color: #333;
+            text-align: center;
+            margin-top: 0;
+        }
+
+        /* Paragraph styling */
         p {
             font-size: 16px;
-            color: #34495e;
             line-height: 1.6;
+            color: #555;
+            text-align: justify;
         }
 
+        /* Image styling */
         img {
-            max-width: 80%;
+            max-width: 60%;  /* Adjusted for smaller image size */
             height: auto;
-            border: 1px solid #ddd;
-            border-radius: 5px;
             display: block;
-            margin: 0 auto;
+            margin: 20px auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
         }
-    </style>
-</head>
-<body>
-    <header>
-        <!-- Your header content -->
-    </header>
 
-    <main>
-        {{ content }}
-    </main>
+        /* Link styling */
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
 
-    <footer>
-        <!-- Your footer content -->
-    </footer>
-</body>
-</html>
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+     
