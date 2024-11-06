@@ -36,3 +36,6 @@ Whether collaborating with a team or working independently, I strive to approach
 - Collaborated with team members to streamline operations and ensure timely completion of administrative processes.
 
 **Thermoelectric Plant Operator  Central Termica Vuelta de Obligado S.A. (2014)**
+- Completed training on the operation of General Electric’s 6FA and 7FA gas turbines.
+- Trained in maintaining and troubleshooting the DCS Mark VI control system.
+
