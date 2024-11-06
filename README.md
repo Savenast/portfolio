@@ -1,3 +1,5 @@
+layout: default
+
 # Data Analyst
 
 #### Technical Skills: Power By, Excel, Google sheets, Python, SQL 
