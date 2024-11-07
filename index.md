@@ -14,7 +14,7 @@ Whether collaborating with a team or working independently, I strive to approach
 
 ## Education
 - Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Nacional University of Rosario
-- Project Management&nbsp;&nbsp;&nbsp;&nbsp;| Platzi (2023)
+- Project Manager&nbsp;&nbsp;&nbsp;&nbsp;| Platzi (2023)
 - Data Analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Platzi (2024)
 
 ## Languages
