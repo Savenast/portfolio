@@ -21,16 +21,27 @@ The data used in this project was stored across three CSV files, each representi
 *Data model showing relationships between key tables such as Sales, Products, and Stores, built from multiple CSV files.*
 
 
-## Key Dashboards
-1. **Store Comparison Dashboard** - Compare sales metrics across locations.
-2. **Product Performance Dashboard** - Track top-selling products.
-3. **Seasonal Trends Dashboard** - Identify patterns in demand over time.
-4. **Customer Analysis Dashboard** - Insights into customer buying behavior.
-5. **Inventory Management Dashboard** - Monitor stock levels and reorder points.
+## Dashboards
 
-For details, explore each dashboard below:
-- [Store Comparison Dashboard](link-to-store-comparison)
-- [Product Performance Dashboard](link-to-product-performance)
-- [Seasonal Trends Dashboard](link-to-seasonal-trends)
-- [Customer Analysis Dashboard](link-to-customer-analysis)
-- [Inventory Management Dashboard](link-to-inventory-management)
+This analysis included five key dashboards, each focusing on different aspects of the enterprise's performance.
+
+### 1. Sales Overview
+[![Sales Overview](assets/img/sales_overview.png)](assets/img/sales_overview.png)
+*Summary of yearly and monthly sales performance, highlighting trends across different stores.*
+
+### 2. Product Analysis
+[![Product Analysis](assets/img/TecnomaxProductos.png)](assets/img/TecnomaxProductos.png)
+*Detailed analysis of top-selling products, inventory status, and profitability.*
+
+### 3. Store Comparison
+[![Store Comparison](assets/img/TecnomaxSucyVend.png)](assets/img/TecnomaxSucyVend.png.png)
+*Performance comparison between stores, with metrics like revenue, customer visits, and product popularity.*
+
+### 4. Customer Insights
+[![Customer Insights](assets/img/TecnomaxClientes.png)](assets/img/TecnomaxClientes.png)
+*Demographics and purchase behaviors, focusing on customer segmentation and engagement.*
+
+### 5. Annual Trends
+[![Annual Trends](assets/img/TecnomaxResumen.png)](assets/img/TecnomaxResumen.png)
+*Long-term sales and profitability trends to identify patterns and plan for the future.*
+
