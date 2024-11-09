@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Tecnomax Analysis"
+title: "Tecnomax Sales Analysis"
 ---
 
-# Tecnomax sale Analysis
+# Tecnomax Sales Analysis
 
 ## Project Overview
 This project involved analyzing sales performance across multiple stores to identify top products, store performance, and seasonal trends.
