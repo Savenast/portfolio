@@ -17,7 +17,7 @@ This project involved analyzing sales performance across multiple stores to iden
 ## Data Model
 The data used in this project was stored across three CSV files, each representing a separate year of sales data. These files were combined and cleaned to form a comprehensive dataset, connecting information from stores, products, and individual sales.
 
-[![Data Model](/assets/img/data_model.png)](https://Savenast.github.io/portfolio/assets/img/Datamodel.png)
+[![Data Model](/assets/img/Datamodel.png)](https://Savenast.github.io/portfolio/assets/img/Datamodel.png)
 *Data model showing relationships between key tables such as Sales, Products, and Stores, built from multiple CSV files.*
 
 
