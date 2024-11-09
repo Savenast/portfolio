@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 
 
 # Add base URL and site URL if needed
-baseurl: "/first-portfolio"   # Only if your GitHub Pages site is in a repo other than your GitHub username
+baseurl: "/portfolio"   # Only if your GitHub Pages site is in a repo other than your GitHub username
 url: "https://Savenast.github.io"
 
 # Permalinks setup for cleaner URLs
