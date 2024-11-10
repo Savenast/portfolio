@@ -26,20 +26,20 @@ The data used in this project was stored across three CSV files, each representi
 This analysis included five key dashboards, each focusing on different aspects of the enterprise's performance.
 
 ### 1. Sales Overview
-[![Sales Overview](assets/img/TecnomaxResumen.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxResumen.png))
-*Summary of yearly and monthly sales performance, highlighting trends across different stores.*
+[![Sales Overview](assets/img/TecnomaxResumen.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxResumen.png)
+*This dashboard highlights key performance metrics, including total sales, average sale value, and sales quantity through a set of summary cards. A line chart visualizes sales trends over time, while bar graphs display the top-performing stores and top sellers.*
 
 ### 2. Product Analysis
-[![Product Analysis](assets/img/TecnomaxProductos.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxProductos.png))
-*Detailed analysis of top-selling products, inventory status, and profitability.*
+[![Product Analysis](assets/img/TecnomaxProductos.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxProductos.png)
+*This dashboard includes a matrix showcasing products by category across stores, with a conditional heatmap overlay to indicate sales intensity. It also features a bar graph displaying the most sold products, layered with an income metric line for comparative analysis. Another bar graph highlights the most demanded categories, also paired with the income metric line to emphasize profitability.*
 
 ### 3. Store Comparison
 [![Store Comparison](assets/img/TecnomaxSucyVend.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxSucyVend.png)
-*Performance comparison between stores, with metrics like revenue, customer visits, and product popularity.*
+*This dashboard presents an in-depth look at individual store performance with four bar graphs: total sales by store, top-performing salespeople, product availability per store, and the number of active sellers at each location. Each store is represented consistently with the same color across all graphs, making it easy to identify patterns and compare performance metrics*
 
 ### 4. Customer Insights
 [![Customer Insights](assets/img/TecnomaxClientes.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxClientes.png)
-*Demographics and purchase behaviors, focusing on customer segmentation and engagement.*
+*This dashboard focuses on account segmentation, displaying a pie chart of the distribution of different account types. A bar chart provides a breakdown of total sales by each account type, while a line chart tracks sales trends over time for each type, offering insights into the buying behavior of different customer groups.*
 
 ### 5. Annual Trends
 [![Annual Trends](assets/img/TecnomaxResumen.png)](assets/img/TecnomaxResumen.png)
