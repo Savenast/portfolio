@@ -56,7 +56,7 @@ This dashboard provides a comprehensive analysis of sales metrics across multipl
 
 Click on each image to view an enlarged version.
 
-- [![Sales Overview](./assets/img/Insight1.png)](https://Savenast.github.io/portfolio/assets/img/insight1.png)
-- [![Detailed Metrics](./assets/img/Insight2.png)](https://Savenast.github.io/portfolio/assets/img/Insight2.png)
+ [![Sales Overview](./assets/img/Insight1.png)](https://Savenast.github.io/portfolio/assets/img/Insight1.png)
+ [![Detailed Metrics](./assets/img/Insight2.png)](https://Savenast.github.io/portfolio/assets/img/Insight2.png)
 
 
