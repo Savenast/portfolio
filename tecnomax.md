@@ -41,7 +41,22 @@ This analysis included five key dashboards, each focusing on different aspects o
 [![Customer Insights](assets/img/TecnomaxClientes.png)](https://Savenast.github.io/portfolio/assets/img/TecnomaxClientes.png)
 *This dashboard focuses on account segmentation, displaying a pie chart of the distribution of different account types. A bar chart provides a breakdown of total sales by each account type, while a line chart tracks sales trends over time for each type, offering insights into the buying behavior of different customer groups.*
 
-### 5. Annual Trends
-[![Annual Trends](assets/img/TecnomaxResumen.png)](assets/img/TecnomaxResumen.png)
-*Long-term sales and profitability trends to identify patterns and plan for the future.*
+### 5. Sales Analysis Dashboard
+
+This dashboard provides a comprehensive analysis of sales metrics across multiple stores, products, and account types. Users can filter by year, month, store, category, and brand to obtain specific insights into sales patterns.
+
+### Key Features
+
+1. **Sales Overview**: Visualizes total sales, average sales value, and quantity of sales, segmented by top-performing stores and sellers.
+2. **Product and Store Analysis**: A heatmap matrix displays product sales across categories and stores, while bar graphs highlight the most sold products and top-demand categories, with income metrics layered for comparison.
+3. **Store Performance**: Breaks down sales, product availability, and the number of sellers by store, with consistent color-coding for easy identification.
+4. **Account Type Distribution**: Shows sales distribution by account type, with a pie chart for account types, a bar chart for sales volume per account type, and a line chart showing sales trends over time.
+
+### Dashboard Previews
+
+Click on each image to view an enlarged version.
+
+- [![Sales Overview](./assets/img/Insight1.png)](https://Savenast.github.io/portfolio/assets/img/insight1.png)
+- [![Detailed Metrics](./assets/img/Insight2.png)](https://Savenast.github.io/portfolio/assets/img/Insight2.png)
+
 
