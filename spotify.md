@@ -53,4 +53,4 @@ This project serves as a starting point for more complex analyses. Future projec
 
 This Spotify Music Analysis dashboard is a powerful example of how data can be visually structured for quick understanding and visual impact. It showcases essential metrics in a clean layout that aligns with Spotify's branding, making it perfect for both internal reports and public presentations.
 
-[Back to Main](/first-portfolio)
+[Back to Main](/portfolio)
