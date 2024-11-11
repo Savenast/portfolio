@@ -73,3 +73,4 @@ Click on each image to view an enlarged version.
 4. **Performance by Account Type**:  
    Notably, **Silver-level accounts** generate significantly higher sales compared to Platinum and Gold accounts. This could suggest that discounts applied to Silver accounts are very appealing to customers, possibly to the detriment of the other categories. It may be beneficial to review the discount policy to ensure a proper balance between incentives and profitability across account levels.
 
+[Back to Main](/portfolio)
