@@ -59,4 +59,17 @@ Click on each image to view an enlarged version.
  [![Sales Overview](./assets/img/Insight1.png)](https://Savenast.github.io/portfolio/assets/img/Insight1.png)
  [![Detailed Metrics](./assets/img/Insight2.png)](https://Savenast.github.io/portfolio/assets/img/Insight2.png)
 
+### Sales Analysis Conclusions
+
+1. **Relationship Between Sellers and Sales**:  
+   There is a positive correlation between the number of sellers and total sales. However, **seller turnover** also plays a role, suggesting that the stability and experience of the sales team could be an important factor in performance.
+
+2. **Product Variety and Sales**:  
+   The **variety of products** offered at each store significantly impacts sales. Higher diversity in product offerings is associated with better sales results, indicating that a broad range of options can attract more customers and meet diverse needs.
+
+3. **Sales During the Holiday Season**:  
+   Sales show a noticeable increase during the holiday season. A deeper analysis of these trends could help identify **successful patterns** that could be replicated across different stores or times of the year, optimizing sales strategies for future events.
+
+4. **Performance by Account Type**:  
+   Notably, **Silver-level accounts** generate significantly higher sales compared to Platinum and Gold accounts. This could suggest that discounts applied to Silver accounts are very appealing to customers, possibly to the detriment of the other categories. It may be beneficial to review the discount policy to ensure a proper balance between incentives and profitability across account levels.
 
