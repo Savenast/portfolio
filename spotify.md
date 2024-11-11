@@ -12,7 +12,8 @@ description: "A clean visual representation of Spotify streaming trends for shar
 
 This project presents a clean, visually appealing dashboard that captures key Spotify streaming trends. Designed with simplicity in mind, this dashboard is ideal for sharing on social media or incorporating into reports where quick insights and aesthetics are prioritized.
 
-**Data Source:** [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+**Data Source:** <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023" target="_blank">Kaggle</a>
+
 
 **Tools Used:** Power BI, PowerPoint (for additional styling)
 
