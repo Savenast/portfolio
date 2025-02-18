@@ -13,8 +13,11 @@ description: "A Power BI dashboard designed to help retail investors navigate sh
 In Argentina’s high-inflation environment, short-term investments are crucial for protecting purchasing power. This Power BI dashboard helps retail investors analyze Letras del Tesoro (Treasury Bills) as a strategy to hedge against inflation. It provides:
 
 ✅ Real-time yield comparisons to assess profitability.
+
 ✅ Maturity structure insights to align with investment horizons.
+
 ✅ Inflation-adjusted returns to measure true purchasing power protection.
+
 ✅ Interactive filters for easy decision-making.
 
 By visualizing key metrics, the dashboard empowers investors to make informed, data-driven decisions in a rapidly changing market.
