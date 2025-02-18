@@ -6,7 +6,7 @@ description: "A Power BI dashboard designed to help retail investors navigate sh
 
 # Argentina Treasury Bills Dashboard
 
-[![Spotify Dashboard](/assets/img/Main.png)](https://Savenast.github.io/portfolio/assets/img/Dasboard_bonos_screen.png)
+[![Spotify Dashboard](/assets/img/Dasboard_bonos_screen.png)](https://Savenast.github.io/portfolio/assets/img/Dasboard_bonos_screen.png)
 
 ### Project Overview
 
