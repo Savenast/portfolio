@@ -52,7 +52,6 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
   - **Nominal Annual Rate (TNA)**  
   - **Internal Rate of Return (TIR)**  
   - **Final Yield at Maturity**
-  
 
 3. **Effective Monthly Rate Chart (Top Right)**
 - A **scatter plot** showing the **monthly effective rate** per Treasury Bill.
@@ -69,7 +68,7 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
   - **Final Amount at Maturity**  
   - **Nominal Annual Rate (TNA)**  
   - **Total Yield at Maturity**
-  
+
   
 6. **Comparison with Other Investments (Bottom Right)**
 - **Bar chart** comparing the selected **Letra del Tesoro** against:  
