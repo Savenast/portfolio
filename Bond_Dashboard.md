@@ -44,6 +44,7 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
 
 1. **Investment Date Selector (Top Left)**
 - Allows users to set the investment period using a **date range slider**.
+
   
 2. **Treasury Bills Table (Top Left)**
 - Displays key data for each **Letra del Tesoro**, including:  
@@ -51,26 +52,25 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
   - **Nominal Annual Rate (TNA)**  
   - **Internal Rate of Return (TIR)**  
   - **Final Yield at Maturity**
-    
+
 3. **Effective Monthly Rate Chart (Top Right)**
 - A **scatter plot** showing the **monthly effective rate** per Treasury Bill.
 - Includes a **trend line** for visualizing rate behavior over time.
-  
+
 4. **Letter Selection Panel (Bottom Left)**
 - **Interactive buttons** allow users to choose a specific **Letra del Tesoro** for comparison.
 - The selected letter is highlighted in **orange**.
-  
+
 5. **Investment Simulator (Bottom Center)**
 - Users can input an investment amount to calculate:  
   - **Final Amount at Maturity**  
   - **Nominal Annual Rate (TNA)**  
   - **Total Yield at Maturity**
-    
+  
 6. **Comparison with Other Investments (Bottom Right)**
 - **Bar chart** comparing the selected **Letra del Tesoro** against:  
   - **Common Investment Options** (Fixed Term Deposits, Guaranteed Funds, etc.)
   - **Annual Inflation Projections (REM Report)**
-
 
 These elements make the dashboard **highly interactive and user-friendly**, helping retail investors compare short-term investments efficiently.
 
