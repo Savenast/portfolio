@@ -30,43 +30,43 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
 
 ### Goals
 
-📌 Help Retail Investors – Provide clear, data-driven insights to assist individual investors in making informed short-term investment decisions.
+📌 **Help Retail Investors** – Provide clear, data-driven insights to assist individual investors in making informed short-term investment decisions.
 
-📌 Inflation Protection – Highlight the best Treasury Bill options to preserve purchasing power in Argentina’s high-inflation economy.
+📌 **Inflation Protection** – Highlight the best Treasury Bill options to preserve purchasing power in Argentina’s high-inflation economy.
 
-📌 Optimize Investment Strategies – Allow users to compare yields, maturities, and real returns to select the most suitable instruments.
+📌 **Optimize Investment Strategies** – Allow users to compare yields, maturities, and real returns to select the most suitable instruments.
 
-📌 Enhance Accessibility – Offer an interactive and intuitive Power BI dashboard that simplifies complex financial data for all experience levels.
+📌 **Enhance Accessibility** – Offer an interactive and intuitive Power BI dashboard that simplifies complex financial data for all experience levels.
 
 ---
 
 ### Key Visual Elements
 
-# 1. **Investment Date Selector (Top Left)**
+1. **Investment Date Selector (Top Left)**
 - Allows users to set the investment period using a **date range slider**.
 
-# 2. **Treasury Bills Table (Top Left)**
+2. **Treasury Bills Table (Top Left)**
 - Displays key data for each **Letra del Tesoro**, including:  
   - **Maturity Date**  
   - **Nominal Annual Rate (TNA)**  
   - **Internal Rate of Return (TIR)**  
   - **Final Yield at Maturity**  
 
-# 3. **Effective Monthly Rate Chart (Top Right)**
+3. **Effective Monthly Rate Chart (Top Right)**
 - A **scatter plot** showing the **monthly effective rate** per Treasury Bill.
 - Includes a **trend line** for visualizing rate behavior over time.
 
-# 4. **Letter Selection Panel (Bottom Left)**
+4. **Letter Selection Panel (Bottom Left)**
 - **Interactive buttons** allow users to choose a specific **Letra del Tesoro** for comparison.
 - The selected letter is highlighted in **orange**.
 
-# 5. **Investment Simulator (Bottom Center)**
+5. **Investment Simulator (Bottom Center)**
 - Users can input an investment amount to calculate:  
   - **Final Amount at Maturity**  
   - **Nominal Annual Rate (TNA)**  
   - **Total Yield at Maturity**  
 
-# 6. **Comparison with Other Investments (Bottom Right)**
+6. **Comparison with Other Investments (Bottom Right)**
 - **Bar chart** comparing the selected **Letra del Tesoro** against:  
   - **Common Investment Options** (Fixed Term Deposits, Guaranteed Funds, etc.)
   - **Annual Inflation Projections (REM Report)**
