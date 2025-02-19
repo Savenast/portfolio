@@ -42,34 +42,35 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
 
 ## **Key Visual Elements**
 
-1. **Investment Date Selector (Top Left)**  
-   - Allows users to set the investment period using a **date range slider**.  
+1. **Investment Date Selector (Top Left)** <br>
+   - Allows users to set the investment period using a **date range slider**. <br><br>
 
-2. **Treasury Bills Table (Top Left)**  
-   - Displays key data for each **Letra del Tesoro**, including:  
-     - **Maturity Date**  
-     - **Nominal Annual Rate (TNA)**  
-     - **Internal Rate of Return (TIR)**  
-     - **Final Yield at Maturity**  
+2. **Treasury Bills Table (Top Left)** <br>
+   - Displays key data for each **Letra del Tesoro**, including: <br>
+     - **Maturity Date** <br>
+     - **Nominal Annual Rate (TNA)** <br>
+     - **Internal Rate of Return (TIR)** <br>
+     - **Final Yield at Maturity** <br><br>
 
-3. **Effective Monthly Rate Chart (Top Right)**  
-   - A **scatter plot** showing the **monthly effective rate** per Treasury Bill.  
-   - Includes a **trend line** for visualizing rate behavior over time.  
+3. **Effective Monthly Rate Chart (Top Right)** <br>
+   - A **scatter plot** showing the **monthly effective rate** per Treasury Bill. <br>
+   - Includes a **trend line** for visualizing rate behavior over time. <br><br>
 
-4. **Letter Selection Panel (Bottom Left)**  
-   - **Interactive buttons** allow users to choose a specific **Letra del Tesoro** for comparison.  
-   - The selected letter is highlighted in **orange**.  
+4. **Letter Selection Panel (Bottom Left)** <br>
+   - **Interactive buttons** allow users to choose a specific **Letra del Tesoro** for comparison. <br>
+   - The selected letter is highlighted in **orange**. <br><br>
 
-5. **Investment Simulator (Bottom Center)**  
-   - Users can input an investment amount to calculate:  
-     - **Final Amount at Maturity**  
-     - **Nominal Annual Rate (TNA)**  
-     - **Total Yield at Maturity**  
+5. **Investment Simulator (Bottom Center)** <br>
+   - Users can input an investment amount to calculate: <br>
+     - **Final Amount at Maturity** <br>
+     - **Nominal Annual Rate (TNA)** <br>
+     - **Total Yield at Maturity** <br><br>
 
-6. **Comparison with Other Investments (Bottom Right)**  
-   - **Bar chart** comparing the selected **Letra del Tesoro** against:  
-     - **Common Investment Options** (Fixed Term Deposits, Guaranteed Funds, etc.)  
-     - **Annual Inflation Projections (REM Report)**  
+6. **Comparison with Other Investments (Bottom Right)** <br>
+   - **Bar chart** comparing the selected **Letra del Tesoro** against: <br>
+     - **Common Investment Options** (Fixed Term Deposits, Guaranteed Funds, etc.) <br>
+     - **Annual Inflation Projections (REM Report)** <br>
+
 
 
 These elements make the dashboard **highly interactive and user-friendly**, helping retail investors compare short-term investments efficiently.
