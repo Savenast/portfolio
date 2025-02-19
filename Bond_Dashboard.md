@@ -40,7 +40,7 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
 
 ---
 
-## **Key Visual Elements**
+**Key Visual Elements**
 
 1. **Investment Date Selector (Top Left)** <br>
    - Allows users to set the investment period using a **date range slider**. <br><br>
