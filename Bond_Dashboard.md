@@ -48,10 +48,24 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
 
 2. **Treasury Bills Table (Top Left)**
 - Displays key data for each **Letra del Tesoro**, including:  
-  - **Maturity Date**  
-  - **Nominal Annual Rate (TNA)**  
-  - **Internal Rate of Return (TIR)**  
-  - **Final Yield at Maturity**
+  - Maturity Date  
+  - Nominal Annual Rate (TNA)  
+  - Internal Rate of Return (TIR)**  
+  - Final Yield at Maturity
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 3. **Effective Monthly Rate Chart (Top Right)**
 - A **scatter plot** showing the **monthly effective rate** per Treasury Bill.
