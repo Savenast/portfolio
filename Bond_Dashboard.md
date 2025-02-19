@@ -45,27 +45,31 @@ By visualizing key metrics, the dashboard empowers investors to make informed, d
 1. **Investment Date Selector (Top Left)**
 - Allows users to set the investment period using a **date range slider**.
 
-  
+
 2. **Treasury Bills Table (Top Left)**
 - Displays key data for each **Letra del Tesoro**, including:  
   - **Maturity Date**  
   - **Nominal Annual Rate (TNA)**  
   - **Internal Rate of Return (TIR)**  
   - **Final Yield at Maturity**
+  
 
 3. **Effective Monthly Rate Chart (Top Right)**
 - A **scatter plot** showing the **monthly effective rate** per Treasury Bill.
 - Includes a **trend line** for visualizing rate behavior over time.
 
+
 4. **Letter Selection Panel (Bottom Left)**
 - **Interactive buttons** allow users to choose a specific **Letra del Tesoro** for comparison.
 - The selected letter is highlighted in **orange**.
+
 
 5. **Investment Simulator (Bottom Center)**
 - Users can input an investment amount to calculate:  
   - **Final Amount at Maturity**  
   - **Nominal Annual Rate (TNA)**  
   - **Total Yield at Maturity**
+  
   
 6. **Comparison with Other Investments (Bottom Right)**
 - **Bar chart** comparing the selected **Letra del Tesoro** against:  
@@ -80,9 +84,12 @@ These elements make the dashboard **highly interactive and user-friendly**, help
 
 This dashboard is designed for **retail investors** looking to make **short-term investment decisions** in Argentina's high-inflation environment. It is particularly useful for:  
 
-- **Individual Investors** – Those seeking a **data-driven approach** to selecting Treasury Bills (**Letras del Tesoro**) that provide the best returns.  
-- **New Investors** – Users who need a **simple and intuitive** tool to compare fixed-income instruments without deep financial knowledge.  
-- **Experienced Investors** – Those looking to **optimize** their short-term portfolio by analyzing rates, maturities, and real returns.  
+- **Individual Investors** – Those seeking a **data-driven approach** to selecting Treasury Bills (**Letras del Tesoro**) that provide the best returns.
+
+- **New Investors** – Users who need a **simple and intuitive** tool to compare fixed-income instruments without deep financial knowledge.
+
+- **Experienced Investors** – Those looking to **optimize** their short-term portfolio by analyzing rates, maturities, and real returns.
+
 - **Financial Analysts & Advisors** – Professionals assisting clients in **hedging against inflation** with short-term fixed-income options.
 
 ---
@@ -92,9 +99,11 @@ This dashboard is designed for **retail investors** looking to make **short-term
 
 This dashboard provides a **clear, data-driven approach** to short-term investing in Argentina’s high-inflation environment. By offering an **interactive tool** for selecting and comparing Treasury Bills (**Letras del Tesoro**), retail investors can:  
 
-- **Identify the most profitable short-term investment options** based on real-time data.  
-- **Compare returns** against alternative investments such as fixed-term deposits and money market instruments.  
-- **Simulate potential earnings** based on different investment amounts and timeframes.  
+- **Identify the most profitable short-term investment options** based on real-time data.
+
+- **Compare returns** against alternative investments such as fixed-term deposits and money market instruments.
+
+- **Simulate potential earnings** based on different investment amounts and timeframes.
 
 With its **intuitive design and key financial insights**, the dashboard empowers investors to make **informed, strategic decisions**, helping them **protect their savings and optimize returns** in a constantly shifting economic landscape.  
 
