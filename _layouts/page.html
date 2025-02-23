@@ -7,99 +7,112 @@
     <!-- Clean and minimal CSS with adjusted image size -->
     <style>
         /* Base styling */
-        body {
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-            color: #333;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-        }
+       /* Base styling */
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #333;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7; /* Better text readability */
+}
 
-        /* Container styling */
-        main {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
+/* Container styling */
+main {
+    max-width: 900px; /* Slightly wider for better content flow */
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
 
-        /* Header and Footer */
-        header, footer {
-            text-align: center;
-            color: #888;
-            font-size: 14px;
-        }
+/* Header and Footer */
+header, footer {
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+    padding: 10px;
+}
 
-        /* Title styling */
-        h1, h2 {
-            font-family: 'Georgia', serif;
-            color: #333;
-            text-align: center;
-            margin-top: 0;
-        }
+/* Title styling */
+h1 {
+    font-family: 'Georgia', serif;
+    color: #222;
+    text-align: center;
+    font-size: 2.2em; /* Bigger for impact */
+    font-weight: bold;
+    margin-bottom: 15px;
+}
 
-        /* Paragraph styling */
-        p {
-            font-size: 16px;
-            line-height: 1.6;
-            color: #555;
-            text-align: justify;
-        }
+h2 {
+    font-family: 'Georgia', serif;
+    color: #444;
+    text-align: center;
+    font-size: 1.8em;
+    margin-bottom: 15px;
+}
 
-        /* Image styling with increased width */
-        img {
-            max-width: 80%;  /* Adjusted for larger image size */
-            height: auto;
-            display: block;
-            margin: 20px auto;
-            border-radius: 5px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-        }
+/* Paragraph styling */
+p {
+    font-size: 17px;
+    line-height: 1.8;
+    color: #444;
+    text-align: justify;
+}
 
-        /* Link styling */
-        a {
-            color: #1e90ff;
-            text-decoration: none;
-        }
+/* Image styling */
+img {
+    max-width: 90%; /* Bigger image */
+    height: auto;
+    display: block;
+    margin: 25px auto;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
 
-        a:hover {
-            text-decoration: underline;
-        }
+/* Link styling */
+a {
+    color: #0073e6;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
 
-        /* Table styling */
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
+a:hover {
+    text-decoration: underline;
+    color: #005bb5;
+}
 
-        th, td {
-            padding: 10px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+}
 
-        th {
-            background-color: #f7f7f7;
-            font-weight: bold;
-        }
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
 
-    </style>
-</head>
-<body>
-    <header>
-        <!-- Optional Header Content -->
-    </header>
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
 
-    <main>
-        {{ content }}  <!-- This renders the Markdown file content here -->
-    </main>
+/* Alternate row color for better readability */
+tr:nth-child(even) {
+    background-color: #fafafa;
+}
 
-    <footer>
-        © {{ site.time | date: "%Y" }} Salvatierra Julian
-    </footer>
+/* Footer improvements */
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+}
+
 </body>
 </html>
 
