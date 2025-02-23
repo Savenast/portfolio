@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Spotify Trends Analysis"
 description: "A clean visual representation of Spotify streaming trends for sharing on social media and reports."
 ---
 
