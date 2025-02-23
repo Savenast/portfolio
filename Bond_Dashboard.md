@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Argentina Treasury Bills Dashboard "
 description: "A Power BI dashboard designed to help retail investors navigate short-term investment opportunities in Letras del Tesoro, offering insights to hedge against inflation. It features yield comparisons, maturity structures, and inflation-adjusted returns, providing clear, actionable information for protecting capital in a volatile economy."
 ---
 
