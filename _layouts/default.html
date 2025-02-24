@@ -1,209 +1,108 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- Google Fonts for Modern Typography -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Inter:wght@400;600&display=swap" rel="stylesheet">
-    
     <style>
-        /* 🌟 Base Styling */
-        body {
-            font-family: 'Inter', sans-serif;
-            color: #333;
-            background: linear-gradient(to right, #eef1f5, #ffffff);
-            margin: 0;
-            padding: 0;
-            line-height: 1.7;
-        }
+      .social-links {
+          list-style: none; /* Remove default list styling */
+          padding: 0;      /* Remove default padding */
+          display: flex;   /* Display items in a row */
+          gap: 15px;       /* Space between icons */
+          margin: 10px 0;  /* Margin around the social links */
+      }
 
-        /* 📌 Main Container */
-        .wrapper {
-            max-width: 900px;
-            margin: 50px auto;
-            padding: 30px;
-            background-color: #fff;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            border-radius: 12px;
-            text-align: center;
-        }
+      .social-links li {
+          display: inline; /* Ensure items are inline */
+      }
 
-        /* 🔥 Header */
-        header {
-            text-align: center;
-            padding: 20px;
-            background: #0073e6;
-            color: white;
-            border-radius: 10px;
-        }
+      .social-icon {
+          width: 24px;    /* Set a specific width for the icons */
+          height: 24px;   /* Set a specific height for the icons */
+          vertical-align: middle; /* Align icons vertically with text */
+      }
+      
+   
 
-        header h1 {
-            font-family: 'Poppins', sans-serif;
-            font-size: 2.4em;
-            font-weight: bold;
-            margin: 0;
-        }
-
-        header p {
-            font-size: 16px;
-        }
-
-        /* 🏆 Social Links */
-        .social-links {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin: 15px 0;
-        }
-
-        .social-links li {
-            display: inline-block;
-        }
-
-        .social-icon {
-            width: 28px;
-            height: 28px;
-            transition: transform 0.2s ease-in-out;
-        }
-
-        .social-icon:hover {
-            transform: scale(1.1);
-        }
-
-        /* 📂 Project Section */
-        #projects {
-            text-align: left;
-            padding: 30px;
-        }
-
-        #projects h2 {
-            text-align: center;
-            font-size: 2em;
-            font-weight: bold;
-            color: #0073e6;
-        }
-
-        .projects-list {
-            list-style: none;
-            padding: 0;
-        }
-
-        .projects-list li {
-            background: #f9f9f9;
-            padding: 20px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        .projects-list a {
-            font-size: 1.2em;
-            font-weight: bold;
-            color: #0073e6;
-            text-decoration: none;
-        }
-
-        .projects-list a:hover {
-            text-decoration: underline;
-        }
-
-        /* 🔗 Button Styling */
-        .button {
-            display: inline-block;
-            padding: 12px 20px;
-            background: #0073e6;
-            color: white;
-            font-size: 16px;
-            font-weight: bold;
-            text-decoration: none;
-            border-radius: 6px;
-            transition: all 0.3s ease-in-out;
-        }
-
-        .button:hover {
-            background: #005bb5;
-        }
-
-        /* 📌 Footer */
-        footer {
-            text-align: center;
-            padding: 15px;
-            font-size: 14px;
-            color: #777;
-        }
     </style>
+      
 
-    {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
     {% include head-custom.html %}
-</head>
+  </head>
 
-<body>
 
+  <body>
     <div class="wrapper">
+      <header>
+  <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <header>
-            <h1><a href="{{ "/" | absolute_url }}" style="color: white; text-decoration: none;">
-                {{ site.title | default: site.github.repository_name }}</a>
-            </h1>
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="Logo" />
+  {% endif %}
 
-            {% if site.logo %}
-                <img src="{{ site.logo | relative_url }}" alt="Logo" />
-            {% endif %}
+  <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+  <ul class="social-links">
+    <li>
+      <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
+        <img src="/portfolio/assets/icons/github.png" alt="GitHub Icon" class="social-icon" /> GitHub
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/julián-salvatierra-653a04175" target="_blank" rel="noopener noreferrer">
+        <img src="/portfolio/assets/icons/linkedin.png" alt="LinkedIn Icon" class="social-icon" /> LinkedIn
+      </a>
+    </li>
+    
+  </ul>
 
-            <!-- 🌟 Social Links -->
-            <ul class="social-links">
-                <li>
-                    <a href="https://github.com/Savenast" target="_blank" rel="noopener noreferrer">
-                        <img src="/portfolio/assets/icons/github.png" alt="GitHub Icon" class="social-icon" /> 
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.linkedin.com/in/julián-salvatierra-653a04175" target="_blank" rel="noopener noreferrer">
-                        <img src="/portfolio/assets/icons/linkedin.png" alt="LinkedIn Icon" class="social-icon" /> 
-                    </a>
-                </li>
-            </ul>
-        </header>
+  {% if site.github.is_project_page %}
+    <p class="view">
+      <a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a>
+    </p>
+  {% endif %}
+</header>
 
-        <section>
-            {{ content }}
-        </section>
+<section>
+  {{ content }}
+</section>
+      
+ <section id="projects">
+  <h2>My Projects</h2>
+  <ul class="projects-list">
+    <li>
+      <h3><a href="https://Savenast.github.io/portfolio/Bond_Dashboard">Argentina Treasury Bills Dashboard</a></h3>
+      <p>A Power BI dashboard designed to help retail investors navigate short-term investment opportunities in Letras del Tesoro, offering insights to hedge against inflation. It features yield comparisons, maturity structures, and inflation-adjusted returns, providing clear, actionable information for protecting capital in a volatile economy</p>
+    </li>
+    <li>
+      <h3><a href="https://Savenast.github.io/portfolio/spotify">Spotify Music Dashboard</a></h3>
+      <p>This project presents a clean, visually appealing dashboard that captures key Spotify streaming trends. Designed with simplicity in mind, this dashboard is ideal for sharing on social media or incorporating into reports where quick insights and aesthetics are prioritized.</p>
+    </li>
+    <li>
+      <h3><a href="https://Savenast.github.io/portfolio/tecnomax">Tecnomax Sales Analysis</a></h3>
+      <p>This project involved analyzing sales performance across multiple stores to identify top products, store performance, and seasonal trends.</p>
+    </li>
+    
+  </ul>
+</section>
 
-        <!-- 📂 Projects Section -->
-        <section id="projects">
-            <h2>My Projects</h2>
-            <ul class="projects-list">
-                <li>
-                    <h3><a href="https://Savenast.github.io/portfolio/Bond_Dashboard">Argentina Treasury Bills Dashboard</a></h3>
-                    <p>A Power BI dashboard designed to help retail investors navigate short-term investment opportunities in Letras del Tesoro.</p>
-                </li>
-                <li>
-                    <h3><a href="https://Savenast.github.io/portfolio/spotify">Spotify Music Dashboard</a></h3>
-                    <p>This project presents a clean, visually appealing dashboard that captures key Spotify streaming trends.</p>
-                </li>
-                <li>
-                    <h3><a href="https://Savenast.github.io/portfolio/tecnomax">Tecnomax Sales Analysis</a></h3>
-                    <p>This project involved analyzing sales performance across multiple stores to identify top products, store performance, and seasonal trends.</p>
-                </li>
-            </ul>
-        </section>
 
-        <footer>
-            {% if site.github.is_project_page %}
-                <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-            {% endif %}
-        </footer>
+<footer>
+  {% if site.github.is_project_page %}
+    <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+  {% endif %}
+</footer>
+
+
+
 
     </div>
-
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-
-</body>
+  </body>
 </html>
